@@ -1,0 +1,2 @@
+track changes to file in staging
+making change 1
